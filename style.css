@@ -1,0 +1,31 @@
+body{
+
+    font-style: italic;
+   
+    
+    
+
+}
+h1{
+    font-size: 4em;
+
+
+
+}
+.LogoWhatsapp:hover{
+
+    opacity: 0.5;
+
+}
+
+ .fotoslogos{
+
+    display: flex;
+ }
+ .fotoslogos img:first-child{
+
+    margin-right: 10px;
+    margin-left: 100px;
+
+ }
+
